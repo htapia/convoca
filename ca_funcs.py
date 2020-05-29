@@ -5,7 +5,7 @@ import collections
 
 from itertools import product
 
-from utils import *
+# from utils import *
 
 
 def make_table_walk(nbins, known_rule=''):
